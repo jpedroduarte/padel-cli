@@ -1,6 +1,6 @@
 {
     "name": "padel-cli",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A CLI for creating text templates to help the booking process of padel matches",
     "author": {
         "name": "João Duarte",
